@@ -37,6 +37,3 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/sudo-feaskic/sudo-feaskic/snake/github-contribution-grid-snake.svg">
   </picture>
 </p>
-# NoModuleFound
-# NoModuleFound
-# NoModuleFound
