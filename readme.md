@@ -1,5 +1,5 @@
 <p align="center">👋 Hey, Welcome to my GitHub page.</p>
-<p align="center">👨‍💻 I am <b>Sudo-Feaskic</b></p>
+<p align="center">👨‍💻 I am <b>Sam Aldridge</b></p>
 <p align="center">🏠 I'm currently working as a freelancer.</p>
 <p align="center">
 
