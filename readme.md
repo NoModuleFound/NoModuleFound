@@ -1,5 +1,5 @@
 <p align="center">👋 Hey, Welcome to my GitHub page.</p>
-<p align="center">👨‍💻 I am <b>Sam Aldridge</b></p>
+<p align="center">👨‍💻 I am <b>sudo-feaskic</b></p>
 <p align="center">🏠 I'm currently working as a freelancer.</p>
 <p align="center">
 
@@ -20,9 +20,9 @@
 ![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg)
 ![LeetCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg)
 ![AWS](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg)
-![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/InvalidObjectError)
 ![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)
-![GMAIL](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Email/email1.svg)](mailto:sudofeaskic@gmail.com)
 ![My Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)
 
 
@@ -37,3 +37,4 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/sudo-feaskic/sudo-feaskic/snake/github-contribution-grid-snake.svg">
   </picture>
 </p>
+# NoModuleFound
