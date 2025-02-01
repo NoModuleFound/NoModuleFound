@@ -20,7 +20,7 @@
 ![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg)
 ![LeetCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg)
 ![AWS](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg)
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)]
+![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)
 ![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)
 ![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Email/email1.svg)
 ![My Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)
