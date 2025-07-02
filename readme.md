@@ -1,6 +1,6 @@
 <p align="center">👋 Hey, Welcome to my GitHub page.</p>
 <p align="center">👨‍💻 I am <b>sudo-feaskic</b></p>
-<p align="center">🏠 I'm currently working as a freelancer.</p>
+<p align="center">🏠 I'm currently working as a backend developer in UIN</p>
 <p align="center">
 
 ---
